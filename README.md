@@ -4,6 +4,21 @@
 
 Develop a cloud‑based anomaly detection system for streaming IoT sensor data. The system must detect anomalies in real time, trigger alerts, and provide analytics dashboards.
 
+## Dataset: PRIDE (Personal Risk Detection) Dataset
+
+![PRIDE Dataset](images/images_3.jpeg.webp)
+
+### Dataset Description
+
+We define personal risk detection as the timely identification of when someone is in the midst of a dangerous situation, for example, a health crisis or a car accident, events that may jeopardize a person's physical integrity. We work under the hypothesis that a risk-prone situation produces sudden and significant deviations in standard physiological and behavioural user patterns. These changes can be captured by a group of sensors, such as the accelerometer, gyroscope, and heart rate.
+
+The PRIDE (Personal Risk Detection) dataset is built with the help of 18 test subjects and a period of data collection of one week each, 24 h per day; the normal conditions dataset (NCDS) is built in this manner. Next, to build the anomaly conditions dataset (ACDS), the same 18 test subjects collaborate in another process to gather data under specific abnormal or stressful conditions. The scenarios include activities such as running several meters, going up and down the stairs of a several-floor building as fast as possible, simulating a fight, and so on.
+
+### Dataset Sources
+
+- **IEEE DataPort**: [PRIDE Dataset - IEEE DataPort](https://ieee-dataport.org/documents/pride-personal-risk-detection-dataset)
+- **Azure Blob Storage**: [Download PRIDE Dataset](https://prideproject.blob.core.windows.net/pridedataset/PRIDE%20dataset-20260502T121502Z-3-001.zip?sp=r&st=2026-05-02T19:09:41Z&se=2026-08-01T03:24:41Z&spr=https&sv=2025-11-05&sr=b&sig=FClSrULjVFNIga5MjkEdsXZ%2BjCy%2F39cJoU3p1wSVZlg%3D)
+
 ## Milestone 1: Data Collection, Preprocessing, and Exploration
 
 ### Objectives
