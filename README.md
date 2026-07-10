@@ -140,3 +140,14 @@ The PRIDE (Personal Risk Detection) dataset is built with the help of 18 test su
 • Final Project Report
 • Final Presentation Deck
 • Future Improvements Document
+
+---
+
+## 🔗 Project Links
+
+| Resource | Link |
+|---|---|
+| 🖥️ **Frontend Source Code** | [github.com/sleem5482/depi_front](https://github.com/sleem5482/depi_front.git) |
+| ⚙️ **Backend Source Code** | [github.com/sleem5482/depi_backend](https://github.com/sleem5482/depi_backend.git) |
+| 🌐 **Live Website** | [anomaly-lxy6nyc4j-sleems-projects.vercel.app](https://anomaly-lxy6nyc4j-sleems-projects.vercel.app/) |
+| 🚀 **Backend API** | [anomalydetection-c9e2b6abb5hbggb4.francecentral-01.azurewebsites.net](https://anomalydetection-c9e2b6abb5hbggb4.francecentral-01.azurewebsites.net/) |
